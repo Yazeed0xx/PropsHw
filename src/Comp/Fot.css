@@ -1,0 +1,74 @@
+.footer {
+    background-color: #4e3797;
+    height: 55vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: start;
+}
+.logofooter {
+    width: 23vw;
+    height: 40vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: end;
+    align-items: center;
+}
+.imgf {
+    width: 65%;
+}
+.footeritems {
+    width: 35vw;
+    height: 40vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+.line1 {
+    width: 25vw;
+    height: 5vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.line2 {
+    width: 25vw;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.f1 , .f2 , .f3 ,.f4 {
+    color: white;
+    font-family: DIN ;
+    font-size: 16px;
+}
+.logofooter2 {
+    width: 15vw;
+    height: 40vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: start;
+    align-items: center;
+}
+.logofooter3 {
+    width: 18vw;
+    height: 40vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: end;
+    align-items: center;
+}
+.imgf2 {
+    width: 95%;
+}
+.lastsec {
+    background-color: #4e3797;
+    height: 7vh;
+    width: 100vw;
+    color: white;
+    font-family: DIN ;
+    font-size: 16px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}

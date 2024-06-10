@@ -1,0 +1,23 @@
+.steps{
+    display: flex;
+    justify-content: center;
+    height: 190px;
+    background-color: rgb(245 246 250);
+    gap: 100px;
+}
+.step1{
+    margin: 15px;
+    position: absolute;
+}
+.icon{
+    display: none;
+    width: 50px;
+    
+}
+
+.txt2{position: relative;
+    top: 100px;
+    left: 500px;
+    background-color: aqua;
+
+}
